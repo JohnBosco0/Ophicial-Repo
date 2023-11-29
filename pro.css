@@ -1,0 +1,151 @@
+
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f9fa;
+    padding: 3px;
+    box-shadow: 10px 10px rgb(100, 100, 117);
+ }
+ .oo{
+    margin-left: 50px;
+ }
+
+ .menu ul {
+    display: flex;
+    list-style-type: none;
+ }
+
+ .menu li {
+    margin-left: 20px;
+    color: rgb(48, 165, 243);
+    margin: 30px;
+ }
+
+ .cent{
+    background-color: rgb(222, 236, 248);
+        display: flex;
+        align-items: center;
+        height: 80vh;
+        margin: 0;
+        padding: 0;
+      }
+
+      #I{
+        justify-content: center;
+        margin-left: 50px;
+      }
+      h1{
+        font-size: 3.5em;
+          line-height: normal;
+         
+      }
+
+      #cry{
+        color: blue;
+        
+      }
+      button{
+        width: 13%;
+        height: 20%;
+        border-radius: 10px;
+        background-color: blue;
+        padding: 6px;
+        color: white;
+        
+      }
+     .image{
+       justify-content: right;   
+align-items: left;
+margin-left: 400px;
+}
+
+.di{
+  display: flex;
+  justify-content: center;
+  font-size: 22px;
+  color: rgb(0, 119, 255);
+  margin: 30px;
+  font-weight: 600;
+}
+
+#do{
+  /* display: flex; */
+  text-align: center;
+  line-height: 30px;
+  margin: auto;
+  padding: 50px 0;
+  color: rgb(0, 119, 255);
+  font-size: 20px;
+  width: 70%;
+}
+
+#die{
+  margin-left: 50px;
+  line-height: 30px;
+}
+.tt{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 85%;
+  margin: auto;
+
+}
+.box{
+  border: 1px solid rgb(184, 183, 183);
+  padding: 20px 10px;
+  border-radius: 5px;
+  margin: 20px 0;
+  width: 200px;
+  height: 200px;
+  
+}
+.fa-check{
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-style: none;
+}
+.exp{
+  background-color: rgb(12, 12, 43);
+  color: white;
+  display: flex;
+  font-weight:900;
+}
+.int{
+  margin-top: 100px;
+ 
+}
+.out{
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-between;
+  
+}
+.wu{
+  display: flex;
+  
+}
+#dom{
+  text-align: right;
+margin-left: 600px;
+line-height: 30px;
+}
+#mond{
+
+}
+
+footer{
+  background-color: rgb(46, 42, 42);
+  text-align: center;
+  height: 200px;
+  width: 100%;
+  font-weight: 900;
+}
